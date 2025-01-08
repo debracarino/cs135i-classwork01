@@ -1,4 +1,15 @@
 html {
+   background-color: aliceblue;
+}
+
+body {
+  background-color: white;
+  width: 80%;
+  margin: 2em auto;
+}
+
+/* All the other winter CSS your hear desires */
+html {
     background-color: aliceblue;
  }
  
